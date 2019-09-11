@@ -10,7 +10,14 @@ function func (params) {
 
 /******** new ********/
 
+post('/curd_communication', {
+    toekn: '',
+    method: 'senter_get',
+    id_work: 1
+});
 
+
+/******** new ********/
 
 var params = {
     token: ''
@@ -21,9 +28,6 @@ var params = {
 function fen_xiang_money (params) {
 
 }
-
-
-/******** new ********/
 
 
 
