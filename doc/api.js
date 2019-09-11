@@ -13,7 +13,8 @@ function func (params) {
 post('/curd_communication', {
     toekn: '',
     method: 'senter_get',
-    id_work: 1
+    id_work: 1,
+    id_communication: 1
 });
 
 
