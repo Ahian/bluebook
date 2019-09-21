@@ -9,14 +9,8 @@ function func (params) {
 }
 
 /******** new ********/
-
-post('/curd_communication', {
-    toekn: '',
-    method: 'senter_get',
-    id_work: 1,
-    id_communication: 1
-});
-
+//发布个人技能前获取id
+https://www.almondlee.cn/api/get_senting_jineng?token=25_EpIcKB1EJRPzs1AHay0YTrQ1SnJGgvelJD1VQQJTduLUPmBLD4O4C7-NOViDHESkWm9nENNKId7nPM-O1FSg7A
 
 /******** new ********/
 
@@ -24,6 +18,13 @@ var params = {
     token: ''
 }
 
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'senter_get',
+    id_work: 1,
+    id_communication: 1
+});
 
 
 function fen_xiang_money (params) {
