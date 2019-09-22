@@ -9,13 +9,34 @@ function func (params) {
 }
 
 /******** new ********/
+
+
+
+
+
+post('/upload_jineng_file', {
+    file: 图片,
+    token: 'gujikzrfhndjikgsdrzfnujikhargu',
+    id_jineng: 1
+});
+
+
+
+
+/******** new ********/
+
+
+
+
+
 //发布个人技能前获取id
 https://www.almondlee.cn/api/get_senting_jineng?token=25_EpIcKB1EJRPzs1AHay0YTrQ1SnJGgvelJD1VQQJTduLUPmBLD4O4C7-NOViDHESkWm9nENNKId7nPM-O1FSg7A
 
 //发布技能
 https://www.almondlee.cn/api/sent_jineng?token=25_1kkGaPSQ6dFQj4O2Nr6CoKrSDYjr2GFFO1Gu3hwBgsy9M-JB2hENbf-oK-d-sqF_Mec__YWJTwsPaXoLTC9zKw&jineng_tpl=1&id_senting_jineng=2&id_communication=1&bei_zhu=text
 
-/******** new ********/
+
+
 
 var params = {
     token: ''
