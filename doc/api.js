@@ -11,7 +11,7 @@ function func (params) {
 /******** new ********/
 
 
-
+https://www.almondlee.cn/api/get_my_jinengs?token=25_EpIcKB1EJRPzs1AHay0YTrQ1SnJGgvelJD1VQQJTduLUPmBLD4O4C7-NOViDHESkWm9nENNKId7nPM-O1FSg7A
 
 post('/curd_communication', {
     toekn: '',
