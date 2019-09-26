@@ -11,6 +11,31 @@ function func (params) {
 /******** new ********/
 
 
+https://www.almondlee.cn/api/get_my_jinengs?token=25_EpIcKB1EJRPzs1AHay0YTrQ1SnJGgvelJD1VQQJTduLUPmBLD4O4C7-NOViDHESkWm9nENNKId7nPM-O1FSg7A
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'solo_get',
+    id_communication: 1
+});
+
+
+var params = {
+    token: '',
+    id_jineng: '',
+    status: 2
+}
+
+
+
+function hide_jineng (params) {
+
+}
+
+
+
+
+/******** new ********/
 
 
 
@@ -19,11 +44,6 @@ post('/upload_jineng_file', {
     token: 'gujikzrfhndjikgsdrzfnujikhargu',
     id_jineng: 1
 });
-
-
-
-
-/******** new ********/
 
 
 
@@ -42,13 +62,6 @@ var params = {
     token: ''
 }
 
-
-post('/curd_communication', {
-    toekn: '',
-    method: 'senter_get',
-    id_work: 1,
-    id_communication: 1
-});
 
 
 function fen_xiang_money (params) {
