@@ -10,6 +10,26 @@ function func (params) {
 
 /******** new ********/
 
+//jineng_tpl对应的初始权值(会加上发布时的时间戳)
+var jinengTime = [ 
+        1 => 120,       //2*60      快递代取
+        2 => 120,       //          电费代充
+        3 => 4320,      //60*24*3   电影票代买
+        4 => 120,       //          跑腿
+        5 => 4320,      //          账号出租
+        6 => 4320,      //          课程服务
+        7 => 4320,      //          拍照
+        8 => 4320,      //          修图
+        9 => 4320,      //          化妆
+        10 => 1440,     //60*24     游戏陪玩
+        11 => 4320,     //          电车出租
+        12 => 1440,     //60*24     司机
+        13 => 10080,    //60*24*7   服务员
+        14 => 4320,     //          礼仪
+        15 => 10080,    //          模特
+        16 => 4320,     //          配音
+    ];
+
 
 https://www.almondlee.cn/api/get_my_jinengs?token=25_EpIcKB1EJRPzs1AHay0YTrQ1SnJGgvelJD1VQQJTduLUPmBLD4O4C7-NOViDHESkWm9nENNKId7nPM-O1FSg7A
 
