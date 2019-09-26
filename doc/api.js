@@ -11,6 +11,22 @@ function func (params) {
 /******** new ********/
 
 
+var params = {
+    token: '',
+    id_jineng: '',
+    status: 2
+}
+
+
+
+function hide_jineng (params) {
+
+}
+
+
+
+
+/******** new ********/
 
 
 
@@ -19,11 +35,6 @@ post('/upload_jineng_file', {
     token: 'gujikzrfhndjikgsdrzfnujikhargu',
     id_jineng: 1
 });
-
-
-
-
-/******** new ********/
 
 
 
