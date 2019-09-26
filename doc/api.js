@@ -11,6 +11,15 @@ function func (params) {
 /******** new ********/
 
 
+
+
+post('/curd_communication', {
+    toekn: '',
+    method: 'solo_get',
+    id_communication: 1
+});
+
+
 var params = {
     token: '',
     id_jineng: '',
@@ -53,13 +62,6 @@ var params = {
     token: ''
 }
 
-
-post('/curd_communication', {
-    toekn: '',
-    method: 'senter_get',
-    id_work: 1,
-    id_communication: 1
-});
 
 
 function fen_xiang_money (params) {
