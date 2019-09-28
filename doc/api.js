@@ -30,7 +30,7 @@ var jinengShiXiao = []
   jinengShiXiao[15] = 10080    //          模特
   jinengShiXiao[16] = 4320     //          配音
   
-  if (jinengShiXiao[jineng_tpl] + nowTime() > updated_at || jinengStatus != 1) {
+  if (jinengShiXiao[jineng_tpl] + updated_at > nowTime()  || jinengStatus != 1) {
     not alivable
   } else {
       alivable
