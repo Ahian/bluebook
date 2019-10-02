@@ -10,7 +10,7 @@ function func (params) {
 
 /******** new ********/
 
-
+https://www.almondlee.cn/api/get_jineng?id_jineng=2
 
 var jinengShiXiao = []
   jinengShiXiao[1] = 2880      //48*60      快递代取
