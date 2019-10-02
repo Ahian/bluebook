@@ -10,7 +10,7 @@ function func (params) {
 
 /******** new ********/
 
-https://www.almondlee.cn/api/get_jineng?id_jineng=2
+https://www.almondlee.cn/api/get_jineng?id_jineng=2&token=fdcghsdgjk
 
 
 /******** new ********/
