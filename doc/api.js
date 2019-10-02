@@ -12,6 +12,17 @@ function func (params) {
 
 https://www.almondlee.cn/api/get_jineng?id_jineng=2
 
+
+/******** new ********/
+
+
+
+
+
+
+
+
+
 var jinengShiXiao = []
   jinengShiXiao[1] = 2880      //48*60      快递代取
   jinengShiXiao[2] = 120       //          电费代充
@@ -74,9 +85,6 @@ function hide_jineng (params) {
 }
 
 
-
-
-/******** new ********/
 
 
 
