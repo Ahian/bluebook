@@ -546,4 +546,61 @@ KiB Mem :[m[39;49m[1m 21.0[m[39;49m/3903116  [m[39;49m[m[[m[39;49
 [m   17 root      rt   0       0      0      0 S   0.0  0.0   0:00.58 [migration/2]                                                                             [m[39;49m[K
 [m   18 root      20   0       0      0      0 S   0.0  0.0   0:00.23 [ksoftirqd/2]                                                                             [m[39;49m[K[?1l>[40;1H
 [34h[?25h[K[1m[3m%[23m[1m[0m                                                                                                                                                              k..e.cn/public/w\[0m[23m[24m[J[[31madl[00m@[35mrockpi4B[00m:[34m/www/wwwroot/almondlee.cn/public/w[00m on [32mmaster[00m]
-% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h
+% [K[149C[31m ✖[34m ✹[36m ✭[00m[155D[?1h=[?2004h/etc/profile.d/mate-qt.sh:2: = not found
+[1m[3m%[23m[1m[0m                                                                                                                                                                             k..er.com/public\[0m[23m[24m[J[[31mwww[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com/public[00m on [32mdev[00m]
+% [K[170C[00m[170D[?1h=[?2004h[32mc[39m[32mc[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+kc\总用量 56M
+drwxrwxr-x  15 www www 4.0K 9月   9 20:43 [0m[01;34m.[0m
+drwxrwxr-x  26 www www 4.0K 8月  16 07:40 [01;34m..[0m
+-rwxrwxr-x   1 www www  479 8月   2 13:22 [01;32m404.html[0m
+drwxrwxr-x   6 www www 4.0K 9月   9 10:13 [01;34mapp[0m
+-rwxrwxr-x   1 www www 1.7K 8月   2 13:22 [01;32martisan[0m
+drwxrwxr-x   3 www www 4.0K 8月   2 13:22 [01;34mbootstrap[0m
+-rwxrwxr-x   1 www www 1.8K 8月  17 00:00 [01;32mcomposer.json[0m
+-rwxrwxr-x   1 www www 213K 8月  17 00:13 [01;32mcomposer.lock[0m
+drwxrwxr-x   2 www www 4.0K 9月   2 13:37 [01;34mconfig[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mdatabase[0m
+drwxrwxr-x   2 www www 4.0K 9月   9 10:13 [01;34mdoc[0m
+-rwxrwxr-x   1 www www   18 8月   2 13:22 [01;32mdump.rdb[0m
+-rwxrwxr-x   1 www www  714 7月  12 15:01 [01;32m.env[0m
+-rwxrwxr-x   1 www www  565 8月   2 13:22 [01;32m.env.example[0m
+drwxrwxr-x   9 www www 4.0K 9月  11 16:26 [01;34m.git[0m
+-rwxrwxr-x   1 www www  111 8月   2 13:22 [01;32m.gitattributes[0m
+-rwxrwxr-x   1 www www   41 8月  16 08:14 [01;32m.gitignore[0m
+-rw-rw-r--   1 www www   73 8月   2 13:22 .gitmodules
+-rwxrwxr-x   1 www www    1 8月   2 13:22 [01;32m.htaccess[0m
+-rwxrwxr-x   1 www www 1.1K 8月   2 13:22 [01;32mindex.html[0m
+-rwxrwxr-x   1 www www  236 8月   2 13:22 [01;32minsertToken.php[0m
+-rwxrwxr-x   1 www www 4.9K 8月   2 13:22 [01;32mmanifest.2ae2e69a05c33dfc65f8.js.map[0m
+drwxrwxr-x 979 www www  36K 7月   9 19:54 [01;34mnode_modules[0m
+-rw-rw-r--   1 www www 553K 9月   9 20:43 now.sql
+-rwxrwxr-x   1 www www 1.1K 8月   2 13:22 [01;32mpackage.json[0m
+-rwxrwxr-x   1 www www 645K 8月   2 13:22 [01;32mpackage-lock.json[0m
+-rwxrwxr-x   1 www www 1.1K 8月   2 13:22 [01;32mphpunit.xml[0m
+drwxrwxr-x   6 www www  16K 9月  10 23:34 [01;34mpublic[0m
+-rwxrwxr-x   1 www www 3.5K 8月   2 13:22 [01;32mreadme.md[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mresources[0m
+drwxrwxr-x   2 www www 4.0K 9月   9 10:13 [01;34mroutes[0m
+-rwxrwxr-x   1 www www 980K 9月   3 05:35 [01;32mscreenlog.0[0m
+-rwxrwxr-x   1 www www  563 8月   2 13:22 [01;32mserver.php[0m
+-rwxrwxr-x   1 www www  21K 9月   9 10:13 [01;32msql.sql[0m
+-rwxrwxr-x   1 www www   60 8月   2 13:22 [01;32mstopSeller.sh[0m
+drwxrwxr-x   5 www www 4.0K 7月   9 19:54 [01;34mstorage[0m
+-rwxrwxr-x   1 www www    0 8月   2 13:20 [01;32mT1[0m
+-rwxrwxr-x   1 www www  16K 8月   2 13:22 [01;32mtags[0m
+-rwxrwxr-x   1 www www  53M 8月   2 13:22 [01;32mtags.vendors[0m
+drwxrwxr-x   4 www www 4.0K 8月   2 13:22 [01;34mtests[0m
+drwxrwxr-x  51 www www 4.0K 8月  17 00:13 [01;34mvendor[0m
+-rwxrwxr-x   1 www www  549 8月   2 13:22 [01;32mwebpack.mix.js[0m
+[1m[3m%[23m[1m[0m                                                                                                                                                                             k..wbrandser.com\gpl
+[0m[23m[24m[J[[31mwww[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com[00m on [32mdev[00m]
+% [K[166C[34m ✹[36m ✭[00m[170D[?1h=[?2004hggpl[32mg[32mp[32ml[39m[?1l>[?2004l
+kgpl\remote: Counting objects: 11, done.[K
+remote: Compressing objects:  16% (1/6)   [Kremote: Compressing objects:  33% (2/6)   [Kremote: Compressing objects:  50% (3/6)   [Kremote: Compressing objects:  66% (4/6)   [Kremote: Compressing objects:  83% (5/6)   [Kremote: Compressing objects: 100% (6/6)   [Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 6 (delta 4), reused 0 (delta 0)[K
+展开对象中:  16% (1/6)   展开对象中:  33% (2/6)   展开对象中:  50% (3/6)   展开对象中:  66% (4/6)   展开对象中:  83% (5/6)   展开对象中: 100% (6/6)   展开对象中: 100% (6/6), 完成.
+来自 134.175.53.19:/home/git/almondhub/wsgj_b
+   b7073ea3..afcf7451  master     -> origin/master
+已经是最新的。
+[1m[3m%[23m[1m[0m                                                                                                                                                                             k..wbrandser.com\[0m[23m[24m[J[[31mwww[00m@[35mrockpi4B[00m:[34m/www/wwwroot/www.newbrandser.com[00m on [32mdev[00m]
+% [K[166C[34m ✹[36m ✭[00m[170D[?1h=[?2004h
