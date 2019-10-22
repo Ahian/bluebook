@@ -10,14 +10,21 @@ function func (params) {
 
 /******** new ********/
 
-//取消赞的话再加一个参数method=cancle
-https://www.almondlee.cn/api/zan_jineng?id_jineng=2&token=fdcghsdgjk
+
+http://www.almondlee.cn/api/get_my_message?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&status=1
+
+
+http://www.almondlee.cn/api/sent_message?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&id_to=8&content=hha
+
 
 
 
 /******** new ********/
 
 
+
+//取消赞的话再加一个参数method=cancle
+https://www.almondlee.cn/api/zan_jineng?id_jineng=2&token=fdcghsdgjk
 
 
 
