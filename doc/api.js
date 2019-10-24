@@ -24,11 +24,14 @@ http://www.almondlee.cn/api/sent_message?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOG
 
 
 //取消赞的话再加一个参数method=cancle
-https://www.almondlee.cn/api/zan_jineng?id_jineng=2&token=fdcghsdgjk
+//id_to是被收藏/点赞的技能的发布者
+//nick_name是当前用户的昵称
+https://www.almondlee.cn/api/zan_jineng?id_jineng=2&token=fdcghsdgjk&nick_name=KK&id_to=8
 
 
-
-https://www.almondlee.cn/api/collect_jineng?id_jineng=2&token=fdcghsdgjk
+//id_to是被收藏/点赞的技能的发布者
+//nick_name是当前用户的昵称
+https://www.almondlee.cn/api/collect_jineng?id_jineng=2&token=fdcghsdgjk&nick_name=KK&id_to=8
 https://www.almondlee.cn/api/get_collected_jineng?token=fdcghsdgjk
 
 
