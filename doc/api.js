@@ -18,7 +18,7 @@ www.almondlee.cn/api/get_user_name?token=27_zmcBItI4ByXTjWbwr321rpatNXvy0xMq-vvC
 
 /******** new ********/
 
-
+//id_to就是要回复的人, 若为0则只是单纯评论
 http://www.almondlee.cn/api/pin_lun?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&id_to=8&content=hha&id_jineng=57
 
 
