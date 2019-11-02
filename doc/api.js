@@ -11,12 +11,15 @@ function func (params) {
 /******** new ********/
 
 
-http://www.almondlee.cn/api/pin_lun?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&id_to=8&content=hha&id_jineng=57
 
+www.almondlee.cn/api/get_user_name?token=27_zmcBItI4ByXTjWbwr321rpatNXvy0xMq-vvCwZXQ_vXDauyNqDeUGPQI22wdGFVhGzqRKRZSTGzSjf9jl6uS1A&infs={"0":"8","1":"10"}
 
 
 
 /******** new ********/
+
+
+http://www.almondlee.cn/api/pin_lun?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&id_to=8&content=hha&id_jineng=57
 
 
 http://www.almondlee.cn/api/get_my_message?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&status=1
