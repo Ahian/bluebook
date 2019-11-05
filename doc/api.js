@@ -11,12 +11,13 @@ function func (params) {
 /******** new ********/
 
 
-
-www.almondlee.cn/api/get_user_name?token=27_zmcBItI4ByXTjWbwr321rpatNXvy0xMq-vvCwZXQ_vXDauyNqDeUGPQI22wdGFVhGzqRKRZSTGzSjf9jl6uS1A&infs={"0":"8","1":"10"}
-
+加zd参数:sent_work, get_works, sent_jineng, get_jinengs
 
 
 /******** new ********/
+
+www.almondlee.cn/api/get_user_name?token=27_zmcBItI4ByXTjWbwr321rpatNXvy0xMq-vvCwZXQ_vXDauyNqDeUGPQI22wdGFVhGzqRKRZSTGzSjf9jl6uS1A&infs={"0":"8","1":"10"}
+
 
 //id_to就是要回复的人, 若为0则只是单纯评论
 http://www.almondlee.cn/api/pin_lun?token=26_tpMR1mhS8F0BPHHrQloFGRuyWNFkOGkLeeQwxqKt5Cket5tn4HA21m5CHr3g3CJdeOqR7QfJZivz9jeTLEOe0A&id_to=8&content=hha&id_jineng=57
