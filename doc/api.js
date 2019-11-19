@@ -15,7 +15,7 @@ function func (params) {
 
 any('/get_websocket_message', {
     toekn: '',
-    id_to
+    id_to: 12
 });
 
 
