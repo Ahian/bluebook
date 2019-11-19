@@ -11,10 +11,20 @@ function func (params) {
 /******** new ********/
 
 
-加zd参数:sent_work, get_works, sent_jineng, get_jinengs
+post('/update_pay_img', {
+    toekn: '',
+    file: 图片
+});
 
 
 /******** new ********/
+
+
+
+
+
+加zd参数:sent_work, get_works, sent_jineng, get_jinengs
+
 
 www.almondlee.cn/api/get_user_name?token=27_zmcBItI4ByXTjWbwr321rpatNXvy0xMq-vvCwZXQ_vXDauyNqDeUGPQI22wdGFVhGzqRKRZSTGzSjf9jl6uS1A&infs={"0":"8","1":"10"}
 
