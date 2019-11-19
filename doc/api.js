@@ -10,6 +10,27 @@ function func (params) {
 
 /******** new ********/
 
+
+
+
+any('/get_websocket_message', {
+    toekn: '',
+    id_to
+});
+
+
+
+any('/gent_websocket_message', {
+    toekn: '',
+    id_to: 12,
+    content: 'hello'
+});
+
+
+/******** new ********/
+
+
+
 www.almondlee.cn/api/get_pay_img?user_id=8
 
 
@@ -19,13 +40,6 @@ post('/update_pay_img', {
     toekn: '',
     file: 图片
 });
-
-
-
-
-/******** new ********/
-
-
 
 
 
