@@ -11,6 +11,15 @@ function func (params) {
 /******** new ********/
 
 
+any('/get_list_of_websocket_message', {
+    toekn: '',
+    limit: 50
+});
+
+
+
+
+/******** new ********/
 
 
 any('/get_websocket_message', {
@@ -25,11 +34,6 @@ any('/gent_websocket_message', {
     id_to: 12,
     content: 'hello'
 });
-
-
-/******** new ********/
-
-
 
 www.almondlee.cn/api/get_pay_img?user_id=8
 
