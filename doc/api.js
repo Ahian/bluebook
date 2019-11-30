@@ -40,7 +40,7 @@ www.almondlee.cn/api/get_pay_img?user_id=8
 
 
 //设置
-post('/update_pay_img', {
+post('/upload_pay_img', {
     toekn: '',
     file: 图片
 });
