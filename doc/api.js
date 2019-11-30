@@ -11,15 +11,25 @@ function func (params) {
 /******** new ********/
 
 
-any('/get_list_of_websocket_message', {
+
+
+post('/upload_message_img', {
     toekn: '',
-    limit: 50
+    file: 图片
 });
 
 
 
 
 /******** new ********/
+
+
+
+any('/get_list_of_websocket_message', {
+    toekn: '',
+    limit: 50
+});
+
 
 
 any('/get_websocket_message', {
