@@ -14,7 +14,7 @@ function func (params) {
 
 any('/sent_websocket_message', {
     toekn: '',
-    object_id: -9,//负数为产品id, 正数为技能id
+    talk_about: -9,//负数为产品id, 正数为技能id
     id_to: 12,
     content: 'hello'
 });
