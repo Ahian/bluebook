@@ -12,17 +12,23 @@ function func (params) {
 
 
 
-
-post('/upload_message_img', {
+any('/sent_websocket_message', {
     toekn: '',
-    file: 图片
+    object_id: -9,//负数为产品id, 正数为技能id
+    id_to: 12,
+    content: 'hello'
 });
+
 
 
 
 
 /******** new ********/
 
+post('/upload_message_img', {
+    toekn: '',
+    file: 图片
+});
 
 
 any('/get_list_of_websocket_message', {
@@ -39,11 +45,6 @@ any('/get_websocket_message', {
 
 
 
-any('/gent_websocket_message', {
-    toekn: '',
-    id_to: 12,
-    content: 'hello'
-});
 
 www.almondlee.cn/api/get_pay_img?user_id=8
 
